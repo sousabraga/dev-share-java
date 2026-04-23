@@ -1,0 +1,3 @@
+- Use seu conhecimento em Java
+- Use seu conhecimento em apresentações técnicas e para times de desenvolvimento
+- Sempre crie classes com exemplos antigos e também com exemplos da versão em questão
